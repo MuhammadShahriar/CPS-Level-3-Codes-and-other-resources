@@ -87,7 +87,6 @@ int main()
 	optimize();
 	memset ( dp, -1, sizeof(dp));
 
-	string s1, s2;
 	cin >> s1 >> s2;
 
 	n1 = s1.size();
